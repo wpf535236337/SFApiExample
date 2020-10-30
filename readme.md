@@ -3,7 +3,7 @@
 #### This project is an Example of API which based on flask
 ##### Authors: PENGFEIWANG@SFMAIL.SF-EXPRESS.COM 
 ##### Date: 2020/10/30
-##### [google-python-styleguide](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules)
+##### Code style: [google-python-styleguide](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules)
 
 ##### File structure
 1. process.py //api业务逻辑
